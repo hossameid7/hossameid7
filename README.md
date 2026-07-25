@@ -21,16 +21,22 @@
 ## 🛠 Tech Stack & Skills
 
 #### 🧠 Machine Learning & Data Science
-`Python` • `PyTorch` • `TensorFlow` • `Scikit-Learn` • `XGBoost` • `LightGBM` • `CatBoost` • `Pandas` • `NumPy` • `tsfresh`[cite: 1, 2]
+`Python` • `SQL` • `Machine Learning` • `Deep Learning` • `EDA` • `Data Analysis` • `Anomaly Detection` • `Time Series Analysis` • `Feature Engineering (tsfresh)` • `Scikit-Learn` • `PyTorch` • `TensorFlow` • `XGBoost` • `LightGBM` • `CatBoost` • `Pandas` • `NumPy`[cite: 1, 2, 3]
 
-#### 🤖 LLM & Natural Language Processing
-`LLMs (Qwen 2.5, DeepSeek, Llama 3)` • `RAG` • `LangChain` • `Hugging Face` • `LoRA / QLoRA` • `Prompt Engineering`[cite: 1, 2]
+#### 🤖 LLM, NLP & Generative AI
+`LLMs (Qwen 2.5, DeepSeek, Llama, Mistral)` • `RAG (FAISS / ChromaDB)` • `LangChain` • `Hugging Face Transformers` • `LoRA / QLoRA Fine-tuning` • `Prompt Engineering` • `Automated Document Analysis`
 
 #### 👁️ Computer Vision & Medical AI
-`OpenCV` • `CNNs` • `U-Net` • `Xception` • `Pose Estimation` • `Medical Image Segmentation`[cite: 1, 2]
+`OpenCV` • `CNNs` • `U-Net` • `Xception` • `Pose Estimation` • `Object Tracking` • `Medical Image Segmentation` • `Damage Detection`
 
-#### ⚡ Backend, MLOps & Production
-`FastAPI` • `Django REST` • `Flask` • `Docker` • `Kubernetes` • `Apache Airflow` • `MLflow` • `React/TypeScript` • `Flutter`[cite: 1, 2]
+#### ⚡ Full-Stack Backend & Production Development
+`FastAPI` • `Django REST Framework` • `Flask` • `Async Python` • `Django Channels` • `WebSockets` • `Celery` • `Redis` • `PostgreSQL` • `SQLite` • `JWT Auth` • `TypeScript` • `React (Vite, Tailwind CSS, Zustand, React Query)` • `Flutter (Dart)` • `C++ Native Modules (CMake)`[cite: 1, 2]
+
+#### ♾️ MLOps, DevOps & Infrastructure
+`Docker` • `Kubernetes` • `Apache Airflow` • `MLflow` • `CI/CD` • `Git / GitHub` • `REST APIs` • `Linux Administration` • `System Architecture`[cite: 1, 2, 3]
+
+#### 💻 System Administration & IT Infrastructure (L1/L2 Support)
+`Hardware Troubleshooting` • `PC Assembly & Upgrade` • `Windows Server Administration` • `Linux (Unix)` • `Active Directory / Permissions` • `TCP/IP, DHCP, DNS` • `LAN / Wi-Fi Network Setup` • `Service Desk` • `Backup & Data Recovery` • `Printer / Peripheral Setup`
 
 ---
 
