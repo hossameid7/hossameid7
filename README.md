@@ -63,10 +63,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossameid7&show_icons=true&theme=prussian&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossameid7&layout=compact&theme=prussian&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=hossameid7&theme=dark&hide_border=true)
 ---
 
 <p align="center">
