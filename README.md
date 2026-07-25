@@ -63,11 +63,9 @@
 ---
 
 ## 📈 GitHub Stats
+![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossameid7&show_icons=true&theme=prussian&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossameid7&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossameid7&layout=compact&theme=radial&hide_border=true" width="48%" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossameid7&layout=compact&theme=prussian&hide_border=true)
 
 ---
 
