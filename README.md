@@ -1,19 +1,19 @@
 # Hi there, I'm Hossam Eid 👋 
 ### 🤖 AI/ML Engineer | Data Scientist | LLM & Computer Vision Specialist
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hossameid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enghossameid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vk.com/hossameid)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossameid752@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 **M.Sc. Student** in *AI in Digital Product Development* at **Kazan Federal University (ITIS KFU)** (2025–2027).
-* 🎓 **B.Sc. in Software Engineering** from **KFU** with **Honors (Red Diploma)** (2021–2025).
+* 🎓 **M.Sc. Student** in *AI in Digital Product Development* at **Kazan Federal University (ITIS KFU)** (2025–2027)[cite: 1, 2].
+* 🎓 **B.Sc. in Software Engineering** from **KFU** with **Honors (Red Diploma)** (2021–2025)[cite: 1, 2].
 * 🏆 **Prize Winner** of the International Olympiad **"Open Doors" (2025)** in *Applied Mathematics & AI*[cite: 2].
 * 🏅 Named **Best Foreign Graduate** of ITIS KFU (2025)[cite: 2].
-* 🗣️ **Speaker** at the *Sharjah International Conference on AI & Linguistics (SICAL 2024, UAE)*.
+* 🗣️ **Speaker** at the *Sharjah International Conference on AI & Linguistics (SICAL 2024, UAE)*[cite: 1, 2].
 * 👨‍🏫 **Technical Lead & Mentor** coordinating 40+ AI/ML research projects[cite: 1, 2].
 
 ---
