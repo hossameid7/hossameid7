@@ -41,8 +41,7 @@
 ---
 
 ## 📌 Featured Projects
-
-### ⚡ [Predictive Maintenance for Power Transformers (RUL & FDD)](https://github.com/hossameid7)
+### ⚡ [Predictive Maintenance for Power Transformers (RUL & FDD)](https://github.com/hossameid7/graduation_project)
 * Developed an end-to-end industrial ML system predicting Remaining Useful Life (RUL) ($R^2 = 0.86$) and Fault Diagnosis (FDD) ($Accuracy = 97\%$) based on DGA time-series data.
 * Integrated automated LLM-based report generation (Qwen 2.5), WebSockets, and React frontend.
 * **Reviewed and approved by JSC "TVEL" (Rosatom)** for potential deployment.
