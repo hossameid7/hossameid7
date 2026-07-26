@@ -41,6 +41,14 @@
 ---
 
 ## 📌 Featured Projects
+### 🤖 [Autonomous Multi-Agent Log Analyzer](https://github.com/hossameid7/multi-agent-log-analyzer-)
+* Autonomous multi-agent pipeline using **LangGraph** & **Llama 3.3** for server log analysis, root-cause identification, and automated incident repair.
+* Built-in vector search via **ChromaDB (RAG)**, served through **FastAPI**, with real-time alerting via a **Telegram Bot**.
+  
+### 🛡️ [LLM Guardrails & Safety Gateway](https://github.com/hossameid7/LLM-Guardrails-Safety-Gateway)
+* High-performance **FastAPI** gateway securing LLM applications against prompt injections, jailbreaks, and PII leaks (data masking).
+* Features **semantic caching** for fast responses and full observability metrics for model security monitoring.
+  
 ### ⚡ [Predictive Maintenance for Power Transformers (RUL & FDD)](https://github.com/hossameid7/graduation_project)
 * Developed an end-to-end industrial ML system predicting Remaining Useful Life (RUL) ($R^2 = 0.86$) and Fault Diagnosis (FDD) ($Accuracy = 97\%$) based on DGA time-series data.
 * Integrated automated LLM-based report generation (Qwen 2.5), WebSockets, and React frontend.
@@ -64,7 +72,3 @@
 ## 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hossameid7&theme=dark&hide_border=true)
 ---
-
-<p align="center">
-  <i>"Designing & Deploying Production-Ready AI Systems from Data to Deployment."</i>
-</p>
