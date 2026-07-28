@@ -41,17 +41,19 @@
 ---
 
 ## 📌 Featured Projects
-### 🤖 [Autonomous Multi-Agent Log Analyzer](https://github.com/hossameid7/multi-agent-log-analyzer-)
-* Autonomous multi-agent pipeline using **LangGraph** & **Llama 3.3** for server log analysis, root-cause identification, and automated incident repair.
-* Built-in vector search via **ChromaDB (RAG)**, served through **FastAPI**, with real-time alerting via a **Telegram Bot**.
-  
+
+### 🚨 [AIOps Incident Commander & Self-Healing Gateway](https://github.com/hossameid7/aiops-incident-commander)
+* Automated incident response platform: a **LangGraph** multi-agent orchestrator ingests **Zabbix/Prometheus** webhooks, performs Root Cause Analysis over a **ChromaDB** knowledge base (RAG), and drafts a remediation plan under strict **Pydantic v2** schemas.
+* **Human-in-the-loop** approval via Telegram Bot, with **Ansible/SSH** execution behind a mandatory dry-run.
+* Evolved from my earlier [Multi-Agent Log Analyzer](https://github.com/hossameid7/multi-agent-log-analyzer-) (3 agents on LangGraph & Llama 3.3, 27+ pytest tests) — added monitoring integrations, real action execution, and a human approval loop.
+
 ### 🛡️ [LLM Guardrails & Safety Gateway](https://github.com/hossameid7/LLM-Guardrails-Safety-Gateway)
 * High-performance **FastAPI** gateway securing LLM applications against prompt injections, jailbreaks, and PII leaks (data masking).
 * Features **semantic caching** for fast responses and full observability metrics for model security monitoring.
-  
+
 ### ⚡ [Predictive Maintenance for Power Transformers (RUL & FDD)](https://github.com/hossameid7/graduation_project)
-* Developed an end-to-end industrial ML system predicting Remaining Useful Life (RUL) ($R^2 = 0.86$) and Fault Diagnosis (FDD) ($Accuracy = 97\%$) based on DGA time-series data.
-* Integrated automated LLM-based report generation (Qwen 2.5), WebSockets, and React frontend.
+* End-to-end industrial ML system predicting Remaining Useful Life (RUL, $R^2 = 0.86$) and Fault Diagnosis (FDD, $Accuracy = 97\%$) from DGA time-series data.
+* Compared 11 models on a single validation scheme; integrated LLM-based report generation (Qwen 2.5), WebSockets, and a React frontend.
 * **Reviewed and approved by JSC "TVEL" (Rosatom)** for potential deployment.
 
 ### 🩺 [Breast Tumor Classification & Segmentation](https://github.com/hossameid7/flutter-streamlit-breast-ai)
@@ -66,7 +68,6 @@
 
 ### 🔒 [Consent Manager (PDn Law Compliance)](https://github.com/hossameid7/consent-manager)
 * Full lifecycle management for user consent data under FZ-152 compliance with PDF generation and admin management.
-
 ---
 
 ## 📈 GitHub Stats
