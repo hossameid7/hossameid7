@@ -1,75 +1,63 @@
-# Hi there, I'm Hossam Eid 👋 
-### 🤖 AI/ML Engineer | Data Scientist | LLM & Computer Vision Specialist
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://hossameid7.github.io/#about)
+# Hi there, I'm Hossam Eid 👋
+### 🤖 AI/ML Engineer | Data Scientist | LLM & AI Agents Specialist
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://hossameid7.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enghossameid)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hossameid752)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossameid752@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vk.com/hossameid)
----
-
-## 🚀 About Me
-
-* 🎓 **M.Sc. Student** in *AI in Digital Product Development* at **Kazan Federal University (ITIS KFU)** (2025–2027).
-* 🎓 **B.Sc. in Software Engineering** from **KFU** with **Honors (Red Diploma)** (2021–2025).
-* 🏆 **Prize Winner** of the International Olympiad **"Open Doors" (2025)** in *Applied Mathematics & AI*.
-* 🏅 Named **Best Foreign Graduate** of ITIS KFU (2025).
-* 🗣️ **Speaker** at the *Sharjah International Conference on AI & Linguistics (SICAL 2024, UAE)*.
-* 👨‍🏫 **Technical Lead & Mentor** coordinating 40+ AI/ML research projects.
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 📄 Resumes / CVs (PDF)
 
-#### 🧠 Machine Learning & Data Science
-`Python` • `SQL` • `Machine Learning` • `Deep Learning` • `EDA` • `Data Analysis` • `Anomaly Detection` • `Time Series Analysis` • `Feature Engineering (tsfresh)` • `Scikit-Learn` • `PyTorch` • `TensorFlow` • `XGBoost` • `LightGBM` • `CatBoost` • `Pandas` • `NumPy`
+* 📊 **Data Scientist**: [Download CV (PDF)](https://hossameid7.github.io/CV_Eid_Hossam_DS_Intern.pdf)
+* ⚙️ **ML Engineer**: [Download CV (PDF)](https://hossameid7.github.io/CV_Eid_Hossam_ML_Intern.pdf)
+* 🤖 **LLM / AI Agents Engineer**: [Download CV (PDF)](https://hossameid7.github.io/CV_Eid_Hossam_LLM_Intern.pdf)
 
-#### 🤖 LLM, NLP & Generative AI
-`LLMs (Qwen 2.5, DeepSeek, Llama, Mistral)` • `RAG (FAISS / ChromaDB)` • `LangChain` • `Hugging Face Transformers` • `LoRA / QLoRA Fine-tuning` • `Prompt Engineering` • `Automated Document Analysis`
+---
 
-#### 👁️ Computer Vision & Medical AI
-`OpenCV` • `CNNs` • `U-Net` • `Xception` • `Pose Estimation` • `Object Tracking` • `Medical Image Segmentation` • `Damage Detection`
+## 🎓 About Me
 
-#### ⚡ Full-Stack Backend & Production Development
-`FastAPI` • `Django REST Framework` • `Flask` • `Async Python` • `Django Channels` • `WebSockets` • `Celery` • `Redis` • `PostgreSQL` • `SQLite` • `JWT Auth` • `TypeScript` • `React (Vite, Tailwind CSS, Zustand, React Query)` • `Flutter (Dart)` • `C++ Native Modules (CMake)`
+* 🎓 **M.Sc. Student** in *AI in Digital Product Development* at **ITIS KFU** (2025–2027) | GPA: 95.6%
+* 🎓 **B.Sc. in Software Engineering** from **ITIS KFU** | **Diploma with Honors** (GPA: 4.94/5.0)
+* 🏆 **Prize Winner** of the International Olympiad **"Open Doors" (2025)** in *Applied Mathematics & AI*
+* 🏅 Named **Best Foreign Graduate** of ITIS KFU (2025)
+* 👨‍🏫 **Teaching Assistant (ML/AI)** at ITIS KFU: Technical reviewer for 40+ B.Sc. theses across classical ML, time series, CV, and LLM/RAG
 
-#### ♾️ MLOps, DevOps & Infrastructure
-`Docker` • `Kubernetes` • `Apache Airflow` • `MLflow` • `CI/CD` • `Git / GitHub` • `REST APIs` • `Linux Administration` • `System Architecture`
+---
 
-#### 💻 System Administration & IT Infrastructure (L1/L2 Support)
-`Hardware Troubleshooting` • `PC Assembly & Upgrade` • `Windows Server Administration` • `Linux (Unix)` • `Active Directory / Permissions` • `TCP/IP, DHCP, DNS` • `LAN / Wi-Fi Network Setup` • `Service Desk` • `Backup & Data Recovery` • `Printer / Peripheral Setup`
+## 🛠️ Technical Stack
+
+* **Core Stack (Production-Ready):**  
+  `Python` • `pandas` • `NumPy` • `scikit-learn` • `LightGBM` • `XGBoost` • `CatBoost` • `tsfresh` • `SHAP` • `Optuna` • `LangGraph` • `ChromaDB` • `Pydantic v2` • `FastAPI` • `Django REST` • `Flask` • `Docker` • `Git` • `Linux`
+
+* **Worked With (Targeted Use):**  
+  `PyTorch` • `TensorFlow / Keras` • `U-Net` • `Xception` • `LangChain` • `Sentence-Transformers` • `Ollama` • `Groq API` • `SQL (PostgreSQL)` • `TFLite` • `React / TypeScript` • `Flutter / Dart`
+
+* **Engineering Practices:**  
+  `Baseline-First Approach` • `Metrics Selection for Imbalanced Data` • `Leak-Free Validation` • `Inference Latency Optimization` • `pytest` • `Code Review`
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚨 [AIOps Incident Commander & Self-Healing Gateway](https://github.com/hossameid7/aiops-incident-commander)
-* Automated incident response platform: a **LangGraph** multi-agent orchestrator ingests **Zabbix/Prometheus** webhooks, performs Root Cause Analysis over a **ChromaDB** knowledge base (RAG), and drafts a remediation plan under strict **Pydantic v2** schemas.
-* **Human-in-the-loop** approval via Telegram Bot, with **Ansible/SSH** execution behind a mandatory dry-run.
-* Evolved from my earlier [Multi-Agent Log Analyzer](https://github.com/hossameid7/multi-agent-log-analyzer-) (3 agents on LangGraph & Llama 3.3, 27+ pytest tests) — added monitoring integrations, real action execution, and a human approval loop.
+### ⚡ [Power Transformer Remaining Useful Life & Diagnosis](https://github.com/hossameid7/graduation_project)
+* **Industrial ML System**: Reduced forecast MAE by **56%** vs. linear baseline (66.3 vs 151.95 steps). Boosted fault diagnosis **macro-F1 from 0.74 to 0.92** under 19:1 class imbalance.
+* **Tech**: LightGBM, CatBoost, tsfresh, Optuna, SMOTE, SHAP, Django REST, Flask, React, Docker. Approved by JSC "TVEL" (Rosatom).
 
 ### 🛡️ [LLM Guardrails & Safety Gateway](https://github.com/hossameid7/LLM-Guardrails-Safety-Gateway)
-* High-performance **FastAPI** gateway securing LLM applications against prompt injections, jailbreaks, and PII leaks (data masking).
-* Features **semantic caching** for fast responses and full observability metrics for model security monitoring.
+* **High-Performance Gateway**: Sub-10ms response via semantic caching (ChromaDB, 0.92 threshold). PII masking, 35+ prompt injection protection rules, and latency/token telemetry.
+* **Tech**: FastAPI (async), LangChain, Llama 3.3 70B (Groq), Pydantic v2, Docker.
 
-### ⚡ [Predictive Maintenance for Power Transformers (RUL & FDD)](https://github.com/hossameid7/graduation_project)
-* End-to-end industrial ML system predicting Remaining Useful Life (RUL, $R^2 = 0.86$) and Fault Diagnosis (FDD, $Accuracy = 97\%$) from DGA time-series data.
-* Compared 11 models on a single validation scheme; integrated LLM-based report generation (Qwen 2.5), WebSockets, and a React frontend.
-* **Reviewed and approved by JSC "TVEL" (Rosatom)** for potential deployment.
+### 🤖 [AIOps Incident Commander](https://github.com/hossameid7/aiops-incident-commander)
+* **Autonomous Multi-Agent System**: Ingests Zabbix/Prometheus webhooks, performs Root Cause Analysis via ChromaDB (RAG), and generates structured Pydantic v2 execution plans. Features Human-in-the-Loop approval via Telegram and Ansible/SSH execution with dry-run.
+* **Tech**: LangGraph, ChromaDB, FastAPI, Groq API, Ansible, Telegram Bot API.
 
-### 🩺 [Breast Tumor Classification & Segmentation](https://github.com/hossameid7/flutter-streamlit-breast-ai)
-* Medical AI pipeline combining Xception classification with U-Net pixel-wise segmentation.
-* Mobile UI built with Flutter.
+### 🩺 [On-Device Brain Tumor MRI Segmentation](https://github.com/hossameid7/flutter-brain-tumor-ai)
+* **On-Device Medical AI**: Two-stage cascade (Xception classification + U-Net segmentation). 98% test accuracy, offline inference via `tflite_flutter` in Dart Isolate.
+* **Tech**: TensorFlow, Keras, U-Net, Xception, TFLite, Flutter, Dart.
 
-### 🧠 [On-Device MRI Brain Tumor Detection](https://github.com/hossameid7/flutter-brain-tumor-ai)
-* Local, zero-latency inference engine using native C++ CMake modules with Flutter integration for offline processing.
-
-### ⚖️ [AI Legal Translation Assistant](https://github.com/hossameid7/AI-Legal-Translation-Assistant)
-* Context-aware PDF legal contract segmentation, side-by-side translation, automated glossary extraction, and SVG stamp generation.
-
-### 🔒 [Consent Manager (PDn Law Compliance)](https://github.com/hossameid7/consent-manager)
-* Full lifecycle management for user consent data under FZ-152 compliance with PDF generation and admin management.
 ---
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hossameid7&theme=dark&hide_border=true)
----
