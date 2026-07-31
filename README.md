@@ -21,7 +21,8 @@
 * 🎓 **M.Sc. Student** in *AI in Digital Product Development* at **ITIS KFU** (2025–2027) | GPA: 95.6%
 * 🎓 **B.Sc. in Software Engineering** from **ITIS KFU** | **Diploma with Honors** (GPA: 4.94/5.0)
 * 🏆 **Prize Winner** of the International Olympiad **"Open Doors" (2025)** in *Applied Mathematics & AI*
-* 🏅 Named **Best Foreign Graduate** of ITIS KFU (2025)
+* 🏅 **Finalist** for the **"Student of the Year of the Republic of Tatarstan" Award (2025)** in the *IT Discovery of the Year* category
+* 🌟 Named **Best Foreign Graduate** of ITIS KFU (2025)
 * 👨‍🏫 **Teaching Assistant (ML/AI)** at ITIS KFU: Technical reviewer for 40+ B.Sc. theses across classical ML, time series, CV, and LLM/RAG
 
 ---
