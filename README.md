@@ -1,29 +1,21 @@
 # Hi there, I'm Hossam Eid 👋
-### 🤖 AI/ML Engineer | Data Scientist | LLM & AI Agents Specialist
+### 🤖 AI/ML Engineer | Data Scientist | LLM Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://hossameid7.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enghossameid)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossameid752@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vk.com/hossameid)
-
----
-
-## 📄 Resumes / CVs (PDF)
-
-* 📊 **Data Scientist**: [Download CV (PDF)](https://hossameid7.github.io/CV_Eid_Hossam_DS_Intern.pdf)
-* ⚙️ **ML Engineer**: [Download CV (PDF)](https://hossameid7.github.io/CV_Eid_Hossam_ML_Intern.pdf)
-* 🤖 **LLM / AI Agents Engineer**: [Download CV (PDF)](https://hossameid7.github.io/CV_Eid_Hossam_LLM_Intern.pdf)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/hossameid)
 
 ---
 
 ## 🎓 About Me
 
-* 🎓 **M.Sc. Student** in *AI in Digital Product Development* at **ITIS KFU** (2025–2027) | GPA: 95.6%
+* 🎓 **M.Sc. Student** in *AI in Digital Product Development* at **ITIS KFU** (2025–2027) | Average Grade: 95.6%
 * 🎓 **B.Sc. in Software Engineering** from **ITIS KFU** | **Diploma with Honors** (GPA: 4.94/5.0)
 * 🏆 **Prize Winner** of the International Olympiad **"Open Doors" (2025)** in *Applied Mathematics & AI*
-* 🏅 **Finalist** for the **"Student of the Year of the Republic of Tatarstan" Award (2025)** in the *IT Discovery of the Year* category
+* 🏅 **Finalist** for the **"Student of the Year of the Republic of Tatarstan" Award (2025)** in *IT Discovery of the Year*
 * 🌟 Named **Best Foreign Graduate** of ITIS KFU (2025)
-* 👨‍🏫 **Teaching Assistant (ML/AI)** at ITIS KFU: Technical reviewer for 40+ B.Sc. theses across classical ML, time series, CV, and LLM/RAG
+* 🔍 **Technical Reviewer** for **40+ ML/AI graduation projects** at ITIS KFU (classical ML, time series, CV, LLM/RAG)
 
 ---
 
@@ -44,7 +36,7 @@
 
 ### ⚡ [Power Transformer Remaining Useful Life & Diagnosis](https://github.com/hossameid7/graduation_project)
 * **Industrial ML System**: Reduced forecast MAE by **56%** vs. linear baseline (66.3 vs 151.95 steps). Boosted fault diagnosis **macro-F1 from 0.74 to 0.92** under 19:1 class imbalance.
-* **Tech**: LightGBM, CatBoost, tsfresh, Optuna, SMOTE, SHAP, Django REST, Flask, React, Docker. Approved by JSC "TVEL" (Rosatom).
+* **Tech**: LightGBM, CatBoost, tsfresh, Optuna, SMOTE, SHAP, Django REST, Flask, React, Docker. **Passed technical review by JSC "TVEL" (Rosatom)**.
 
 ### 🛡️ [LLM Guardrails & Safety Gateway](https://github.com/hossameid7/LLM-Guardrails-Safety-Gateway)
 * **High-Performance Gateway**: Sub-10ms response via semantic caching (ChromaDB, 0.92 threshold). PII masking, 35+ prompt injection protection rules, and latency/token telemetry.
@@ -55,8 +47,16 @@
 * **Tech**: LangGraph, ChromaDB, FastAPI, Groq API, Ansible, Telegram Bot API.
 
 ### 🩺 [On-Device Brain Tumor MRI Segmentation](https://github.com/hossameid7/flutter-brain-tumor-ai)
-* **On-Device Medical AI**: Two-stage cascade (Xception classification + U-Net segmentation). 98% test accuracy, offline inference via `tflite_flutter` in Dart Isolate.
+* **On-Device Medical AI**: Two-stage cascade (Xception classification + U-Net segmentation). 98% test accuracy (n=101); pixel accuracy 98.5% on validation (optimistic when tumor pixels are sparse, Dice/IoU not measured).
 * **Tech**: TensorFlow, Keras, U-Net, Xception, TFLite, Flutter, Dart.
+
+### 📄 [AI Legal Translation & Contract Assistant](https://github.com/hossameid7)
+* **Document Processing & NLP**: PDF parsing via `pdfplumber` with text-line stitching, chunking to bypass payload limits, and offline fallback. Custom NLP glossary engine with POS-tagging.
+* **Tech**: Python 3.12, Django 6, SQLite3, NLP.
+
+### 🔍 [Multi-Agent Log Analyzer](https://github.com/hossameid7)
+* **Agentic Log Analysis**: 3 agents in LangGraph with vector DB retrieval. RAG match score 0.82 on a 30-scenario benchmark, 27+ unit tests in `pytest`, seamless switching between Groq API and local Ollama.
+* **Tech**: LangGraph, ChromaDB, FastAPI, pytest, Pydantic v2.
 
 ---
 
