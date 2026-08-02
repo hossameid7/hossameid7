@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://hossameid7.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enghossameid)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossameid752@gmail.com)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/hossameid)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/enghossameid)
 
 ---
 
@@ -15,8 +15,6 @@
 * 🏆 **Prize Winner** of the International Olympiad **"Open Doors" (2025)** in *Applied Mathematics & AI*
 * 🏅 **Finalist** for the **"Student of the Year of the Republic of Tatarstan" Award (2025)** in *IT Discovery of the Year*
 * 🌟 Named **Best Foreign Graduate** of ITIS KFU (2025)
-* 🔍 **Technical Reviewer** for **40+ ML/AI graduation projects** at ITIS KFU (classical ML, time series, CV, LLM/RAG)
-
 ---
 
 ## 🛠️ Technical Stack
