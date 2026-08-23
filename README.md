@@ -3,6 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://hossameid7.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9117-2139)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hossam-Eid-4)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hosamtechnology)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enghossameid)
 [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hossameid752)
@@ -13,9 +14,19 @@
 ## About Me
 
 ### Education & Academic Background
-- **M.Sc. in AI in Digital Product Development** — ITIS, Kazan Federal University (*2025–2027*) | Current Avg: **95.6%**
+- **M.Sc. in AI in Digital Product Development** — Higher Institute of Information Technology and Intelligent Systems (ITIS), Kazan Federal University (*2025–2027*) | Current Avg: **95.6%**
 - **B.Sc. in Software Engineering** — ITIS, Kazan Federal University (*2021–2025*) | **Diploma with Honors** (GPA: **4.94 / 5.0**)
 - Named **Best Foreign Graduate** of ITIS KFU (*2025*)
+
+---
+
+### Publications & Preprints
+- **[Predicting Remaining Useful Life and Fault Diagnostics of Power Transformers Using Machine Learning](https://www.researchgate.net/publication/408896817)**  
+  *Hossam Eid, A.I. Mukhamedzhanov* — ITIS, Kazan Federal University, 2025.
+- **[Brain Tumor Detection and Segmentation Using Deep Learning with Modified Xception and U-Net Architectures](https://www.researchgate.net/publication/413422491)**  
+  *Hossam Eid* — ITIS, Kazan Federal University, 2026.
+- **[Development of a Mobile Application for Breast Cancer Diagnostics and Tumor Segmentation Using AI](https://www.researchgate.net/publication/413437774)**  
+  *A.S. Mohamed, Hossam Eid, N.S. Kiselev* — KSPEU / ITIS KFU, 2026.
 
 ---
 
@@ -30,7 +41,7 @@
 ### Research & Academic Mentorship
 - **Research Author** — Time-Series Prognostics (RUL / FDD for Power Transformers) & Medical Computer Vision (*Brain Tumor MRI & Breast Cancer Ultrasound Diagnostics*)
 - **Academic Assistant & Reviewer** — Conducted methodology validation, statistical analysis, and code reproducibility audits for **40+ Bachelor's theses** at ITIS KFU (*2024–Present*)
-- **Conference Participant** — *Kazan Digital Week* (*2022, 2023, 2024*) & *Sharjah International Conference on AI & Linguistics (SICAL 2024, UAE)*
+- **Conference Participant & Speaker** — *Sharjah International Conference on AI & Linguistics (SICAL 2024, UAE — Speaker Certificate № 12Y187517)* & *Kazan Digital Week (2022, 2023, 2024)*
 
 ---
 
