@@ -47,15 +47,20 @@
 
 ## Technical Stack
 
-* **Core Stack (Production-Ready):**  
-  `Python` • `pandas` • `NumPy` • `scikit-learn` • `LightGBM` • `XGBoost` • `CatBoost` • `tsfresh` • `SHAP` • `Optuna` • `LangGraph` • `ChromaDB` • `Pydantic v2` • `FastAPI` • `Django REST` • `Flask` • `Docker` • `Git` • `Linux`
+* **LLM, RAG & Agentic Systems:**  
+  `LangGraph` • `RAG Pipelines` • `ChromaDB` • `Sentence-Transformers` • `Structured Output (Pydantic v2)` • `Semantic Caching` • `Latency & Cost Optimization` • `Ollama` • `Groq API`
 
-* **Worked With (Targeted Use):**  
-  `PyTorch` • `TensorFlow / Keras` • `U-Net` • `Xception` • `LangChain` • `Sentence-Transformers` • `Ollama` • `Groq API` • `SQL (PostgreSQL / SQLite)` • `TFLite` • `React / TypeScript` • `Flutter / Dart`
+* **Machine Learning & Time-Series:**  
+  `scikit-learn` • `LightGBM` • `XGBoost` • `CatBoost` • `Random Forest` • `SVM` • `Stacking & Ensembles` • `tsfresh` • `SHAP` • `RFE` • `Optuna` • `GroupKFold` • `Time-Series Split` • `SMOTE` • `Class Imbalance Handling`
 
-* **Engineering & Research Practices:**  
-  `Baseline-First Approach` • `Leak-Free Validation (GroupKFold)` • `Metrics Selection for Imbalanced Data` • `Inference Latency Optimization` • `pytest` • `Code Review`
+* **Deep Learning & Edge AI:**  
+  `PyTorch` • `TensorFlow / Keras` • `CNN` • `RNN / LSTM` • `U-Net` • `Xception` • `Transfer Learning` • `TFLite (On-Device Inference)`
 
+* **Backend, Data & Infrastructure:**  
+  `Python 3.12` • `SQL (Window Functions & Aggregations)` • `PostgreSQL` • `SQLite` • `pandas` • `NumPy` • `FastAPI (async)` • `Django REST Framework` • `Flask` • `Celery` • `Redis` • `Docker` • `Docker Compose` • `Linux` • `Git` • `pytest`
+
+* **Engineering & Validation Practices:**  
+  `Baseline-First Approach` • `Leak-Free Validation (GroupKFold by Asset)` • `Metric Optimization for Imbalanced Data` • `Sub-10ms Inference Optimization` • `Contract Validation` • `Code Review`
 ---
 
 ## Featured Projects
