@@ -76,11 +76,11 @@
 * **On-Device Medical AI**: Two-stage cascade (Xception classification for screening + U-Net segmentation for contour localization). Quantized to TFLite for 100% offline edge inference; isolated heavy compute on background Dart Isolates (60 FPS UI).
 * **Tech**: TensorFlow, Keras, U-Net, Xception, TFLite, Flutter, Dart, Firebase.
 
-### [AI Legal Translation & Contract Assistant](https://github.com/hossameid7)
+### [AI Legal Translation & Contract Assistant](https://github.com/hossameid7/AI-Legal-Translation-Assistant)
 * **Document Processing & NLP**: PDF parsing via `pdfplumber` with structural paragraph reconstruction to avoid neural translation context loss. Custom lightweight POS-tagging NLP glossary engine and side-by-side synchronized rendering.
 * **Tech**: Python 3.12, Django 6, SQLite3, NLP Heuristic Engine, Bootstrap 5.
 
-### [Multi-Agent Log Analyzer](https://github.com/hossameid7)
+### [Multi-Agent Log Analyzer](https://github.com/hossameid7/multi-agent-log-analyzer-)
 * **Agentic Log Analysis**: 3-stage agent workflow in LangGraph with ChromaDB knowledge retrieval for unstructured server stacktraces (PostgreSQL, JVM, Nginx). Includes deterministic Pydantic output validation and full test coverage via `pytest`.
 * **Tech**: LangGraph, ChromaDB, FastAPI, Ollama, pytest, Pydantic v2.
 
