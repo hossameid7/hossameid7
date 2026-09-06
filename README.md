@@ -1,5 +1,5 @@
 # Hossam Eid
-### AI/ML Engineer | Data Scientist | LLM Systems Specialist
+### Machine Learning Engineer (Classical ML & LLM Systems)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://hossameid7.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9117-2139)
