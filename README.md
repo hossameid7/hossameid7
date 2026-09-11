@@ -66,11 +66,11 @@
 ## Featured Projects
 
 ### [Power Transformer Remaining Useful Life & Diagnosis](https://github.com/hossameid7/graduation_project)
-* **Industrial ML System**: Reduced forecast MAE by **56%** vs. linear baseline (66.3 vs 151.95 steps). Boosted fault diagnosis **macro-F1 from 0.74 to 0.92** under 19:1 class imbalance.
-* **Tech**: LightGBM, CatBoost, tsfresh, Optuna, SMOTE, SHAP, Django REST, Flask, React, Docker. **Passed technical review by JSC "TVEL" (Rosatom)**.
+* **Industrial ML System**: Reduced forecast MAE by **56%** vs. linear baseline (66.3 vs 151.95 days). Boosted fault diagnosis **macro-F1 from 0.74 to 0.92** under 19:1 class imbalance.
+* **Tech**: LightGBM, CatBoost, tsfresh, Optuna, SMOTE, SHAP, Django REST, Flask, React, Docker. **Received positive expert evaluation from JSC "TVEL" (Rosatom) specialists**.
 
 ### [LLM Guardrails & Safety Gateway](https://github.com/hossameid7/LLM-Guardrails-Safety-Gateway)
-* **High-Performance Gateway**: Sub-10ms response via semantic caching (ChromaDB, 0.92 cosine threshold). Bi-directional PII masking, 35+ prompt injection protection rules, and latency/token telemetry (p50/p95/p99).
+* **High-Performance Gateway**: Sub-10ms response via semantic caching (ChromaDB, 0.92 cosine threshold). Bi-directional PII masking, 40+ prompt injection protection rules, and latency/token telemetry (p50/p95/p99).
 * **Tech**: FastAPI (async), ChromaDB, Sentence-Transformers, Groq API, Pydantic v2, Docker.
 
 ### [AIOps Incident Commander](https://github.com/hossameid7/aiops-incident-commander)
