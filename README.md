@@ -20,8 +20,8 @@
 ---
 
 ### Publications & Preprints
-- **[Predicting Remaining Useful Life and Fault Diagnostics of Power Transformers Using Machine Learning](https://www.researchgate.net/publication/408896817)**[cite: 1]  
-  *Hossam Eid, A.I. Mukhamedzhanov* — ITIS, Kazan Federal University, 2025[cite: 1].
+- **[Predicting Remaining Useful Life and Fault Diagnostics of Power Transformers Using Machine Learning](https://www.researchgate.net/publication/408896817)**  
+  *Hossam Eid, A.I. Mukhamedzhanov* — ITIS, Kazan Federal University, 2025.
 - **[Brain Tumor Detection and Segmentation Using Deep Learning with Modified Xception and U-Net Architectures](https://www.researchgate.net/publication/413422491)**  
   *Hossam Eid* — ITIS, Kazan Federal University, 2026.
 - **[Development of a Mobile Application for Breast Cancer Diagnostics and Tumor Segmentation Using AI](https://www.researchgate.net/publication/413437774)**  
@@ -38,7 +38,7 @@
 ---
 
 ### Research & Academic Mentorship
-- **Applied R&D Engineering** — Focus on industrial time-series prognostics (RUL / FDD)[cite: 1, 2], leak-free validation architectures, and privacy-preserving edge computer vision.
+- **Applied R&D Engineering** — Focus on industrial time-series prognostics (RUL / FDD), leak-free validation architectures, and privacy-preserving edge computer vision.
 - **Academic Assistant & Reviewer** — Conducted methodology validation, statistical analysis, baseline verification, and code reproducibility audits for **40+ Bachelor's theses** at ITIS KFU (*2024–Present*).
 - **Conference Speaker & Participant** — *Sharjah International Conference on AI & Linguistics (SICAL 2024, UAE — Speaker Certificate № 12Y187517)* & *Kazan Digital Week (2022, 2023, 2024)*.
 
@@ -66,8 +66,8 @@
 ## Featured Projects
 
 ### [Power Transformer Remaining Useful Life & Diagnosis](https://github.com/hossameid7/graduation_project)
-* **Applied R&D (DATA360 Collaboration)**: Reduced forecast MAE by **56%** vs. linear baseline (66.3 vs 151.95 days)[cite: 1, 2]. Boosted fault diagnosis **macro-F1 from 0.74 to 0.92** under 19:1 class imbalance[cite: 1, 2].
-* **Architecture**: Strict GroupKFold (2100/900 split) preventing data leakage[cite: 1, 2]. Decoupled Django REST and Flask ML API in Docker (~120ms inference)[cite: 1]. **Passed technical review by JSC "TVEL" (Rosatom) specialists, with interest from the Foresight platform**.
+* **Applied R&D (DATA360 Collaboration)**: Reduced forecast MAE by **56%** vs. linear baseline (66.3 vs 151.95 days). Boosted fault diagnosis **macro-F1 from 0.74 to 0.92** under 19:1 class imbalance.
+* **Architecture**: Strict GroupKFold (2100/900 split) preventing data leakage. Decoupled Django REST and Flask ML API in Docker (~120ms inference). **Passed technical review by JSC "TVEL" (Rosatom) specialists, with interest from the Foresight platform**.
 
 ### [LLM Guardrails & Safety Gateway](https://github.com/hossameid7/LLM-Guardrails-Safety-Gateway)
 * **High-Performance Gateway**: Sub-10ms response via semantic caching (ChromaDB, 0.92 cosine threshold). Bi-directional PII masking, OWASP LLM prompt injection defense (40+ compiled regex rules), and production latency telemetry (p50/p95/p99).
